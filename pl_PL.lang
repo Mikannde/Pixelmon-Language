@@ -4,14 +4,7 @@
 *   Hi, I think I'm doing everything right.
 *   I copied the en_US.lang file and I'm translating it
 *   to Polish. | Za jakakolwiek pomoc bardzo dziekuje.
-*/
 
-//Items
-/*
-*   item stands for "it is an item", just like in item.PC.name.
-*   The middle one stands for its name as defined by code.
-*   The final part is just saying it is the name of the item.
-*/
 item.PC.name=PC
 item.Ranch Block.name=Ranczo
 item.Anvil.name=Kowadlo
@@ -473,12 +466,12 @@ item.SoftSand.name=Soft Sand
 item.SpellTag.name=Spell Tag
 item.TwistedSpoon.name=Twisted Spoon
 item.destinyKnot.name=Destiny Knot
-item.XAttack.name=X Attack
-item.XDefence.name=X Defense
-item.XSpecialAttack.name=X Sp. Atk
-item.XSpecialDefence.name=X Sp. Def
-item.XSpeed.name=X Speed
-item.XAccuracy.name=X Accuracy
+item.XAttack.name=X Atak
+item.XDefence.name=X Obrona
+item.XSpecialAttack.name=X Spec. Atak
+item.XSpecialDefence.name=X Spec. Obrona
+item.XSpeed.name=X Szybkosc
+item.XAccuracy.name=X Celnosc
 item.DireHit.name=Dire Hit
 
 item.chisel.name=Chisel
